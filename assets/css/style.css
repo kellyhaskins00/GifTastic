@@ -1,0 +1,21 @@
+.jumbotron {
+    color: white;
+    background-color:#1923f4!important
+}
+.jumbotron {
+    text-align: center;
+}
+
+.responsive-logo {
+    max-width: 25%;
+    height: auto;
+}
+
+.row {
+    text-align: center;
+}
+
+.form-inline {
+    margin: auto;
+    width: 25%;
+}
